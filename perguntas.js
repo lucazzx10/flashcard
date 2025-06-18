@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Neymar',
+    'quantos titulos tem neymar?',
+    '30 titulos oficiais'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Neymar',
+    'quantas bolas de ouro tem Neymar?',
+    '10 bolas de ouro'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'neymar',
+    'qual o melhor amigo do Neymar?',
+    'Gilmar Araújo, conhecido como Gil Cebola'
 )
 
 criaCartao(
