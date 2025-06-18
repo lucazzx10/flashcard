@@ -17,19 +17,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Neymar',
+    'Qual é o nome completo do Neymar?',
+    'Neymar da Silva Santos Junior'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Neymar',
+    'qual é o nome da filha do neymar mais famosa?',
+    'Mavie'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Neymar',
+    'quantos filhos tem Neymar',
+    '4 filhos.'
 )
